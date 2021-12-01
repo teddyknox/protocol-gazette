@@ -1,0 +1,6 @@
+server/build/
+web/build/
+.DS_Store
+*.pem
+.env*
+node_modules
